@@ -137,6 +137,19 @@ shell-assignment/
 ├── monitor.sh
 ├── monitor_logs.txt
 └── README.md
+screenshot/
+├── cron job output/
+│   ├── i
+│   ├── project 1.png.png
+│   └── project.png
+├── first output/
+│   ├── 1.png
+│   ├── I
+│   └── before enhancing run.png
+└── second output/
+    ├── I
+    ├── project3.png
+    └── projrct 2.png
 
 ⸻
 
